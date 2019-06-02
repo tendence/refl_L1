@@ -1,8 +1,9 @@
-#code and data for <Spectral reflectance reconstruction using L1-norm penalization for colour reproduction>
+#code and data for &ltSpectral reflectance reconstruction using L1-norm penalization for colour reproduction &gt
 
 data:
 
 poly.txt: spectral data for all the polyester samples measured by Spectralphotometer.
+![avatar](/image/polyester.jpg)
 paper.txt: spectral data for all the polyester samples measured by Spectralphotometer.
 cotton.txt: spectral data for all the polyester samples measured by Spectralphotometer.
 nylon.txt: spectral data for all the polyester samples measured by Spectralphotometer.
