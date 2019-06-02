@@ -15,4 +15,16 @@ These data are 16-d data.
 
 Code:
 
+importance script:
 one_vs_3_method.m are the script file that runs the caparision.
+
+important function:
+func_pinv_ref_rec.m   pseudo-inverse for reflectance reconstruction ;
+func_l1_ref_rec.m  L1-norm penalization for reflectance reconstruction
+func_wiener_ref_rec.m  Wiener estimation for reflectance reconstruction; 
+func_l2_ref_rec.m L2-norm for reflectance reconstruction;
+func_gp_ref_rec.m Kernel method for reflectance reconstruction;
+
+func_batch_rms.m batch estimation of rms.
+func_batch_cmcde21.m batch estimation of color difference of $\Delta E_{cmc(2:1)}$
+ 
