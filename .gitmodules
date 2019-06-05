@@ -1,0 +1,3 @@
+[submodule "PRMLT"]
+	path = PRMLT
+	url = https://github.com/PRML/PRMLT.git
