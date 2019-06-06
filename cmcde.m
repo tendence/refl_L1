@@ -8,6 +8,8 @@ function [de,dl,dc,dh] = cmcde(lab1,lab2,paral,parac)
 % The dl, dc and dh components are CMC deltas
 % The defaults for paral and parac are 1
 % see also cielabde, cie94de, and cie00de
+% In order to make this code self-contained, this code is
+% copy from https://ww2.mathworks.cn/matlabcentral/fileexchange/40640-computational-colour-science-using-matlab-2e
 
 dim = size(lab1);
 if (dim(1) == 1) | (dim(2) == 1)
