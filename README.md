@@ -2,7 +2,7 @@ code and data for \<Spectral reflectance reconstruction using L1-norm penalizati
 
 Computational colour science tool can be find in https://ww2.mathworks.cn/matlabcentral/fileexchange/40640-computational-colour-science-using-matlab-2e. Author is Professor Stephen Westland.
 
-PRMLT is the matlab code written by Dr. Chen mo for book <Rattern Recognition and Machine Learning>.
+PRMLT is the matlab code written by Dr. Chen mo for book \<Rattern Recognition and Machine Learning\>.
 
 ========================================================================
 data:
