@@ -3,16 +3,16 @@ code and data for &ltSpectral reflectance reconstruction using L1-norm penalizat
 data:
 
 poly.txt: spectral data for all the polyester samples measured by Spectralphotometer.
-![avatar](/image/poly.bmp)
+![avatar](/image/poly_refl.jpg)
 
 paper.txt: spectral data for all the polyester samples measured by Spectralphotometer.
-![avatar](/image/paper.png)
+![avatar](/image/paper_refl.jpg)
 
 cotton.txt: spectral data for all the polyester samples measured by Spectralphotometer.
-![avatar](/image/cotton.bmp)
+![avatar](/image/cotton_refl.jpg)
 
 nylon.txt: spectral data for all the polyester samples measured by Spectralphotometer.
-![avatar](/image/nylon.png)
+![avatar](/image/nylon_refl.jpg)
 
 These data are 31-d data.
 
