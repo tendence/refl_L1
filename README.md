@@ -44,5 +44,5 @@ func_gp_ref_rec.m Kernel method for reflectance reconstruction;
 
 func_batch_rms.m batch estimation of rms.
 
-func_batch_cmcde21.m batch estimation of color difference of $\Delta E_{cmc(2:1)}$
+func_batch_cmcde21.m batch estimation of color difference of $$\Delta E_{cmc(2:1)}$$
  
