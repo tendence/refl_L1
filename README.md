@@ -1,4 +1,4 @@
-Code and data for \<Spectral reflectance reconstruction using L1-norm penalization for colour reproduction \>
+Updated Code and data for \<Spectral reflectance reconstruction using L1-norm penalization for colour reproduction \>
 
 Computational colour science tool can be find in https://ww2.mathworks.cn/matlabcentral/fileexchange/40640-computational-colour-science-using-matlab-2e. Author is Professor Stephen Westland.
 
